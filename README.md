@@ -4,22 +4,7 @@
   A Secure Communication Platform built with Node.js, Express.js, MongoDB, JWT Authentication, and Socket.IO.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
 ---
-
-## Overview
-
-**Secure-Connect** is a backend communication platform that demonstrates secure authentication, protected REST APIs, MongoDB-based data management, and real-time messaging.
-
-The application allows users to register and log in, access protected resources using JSON Web Tokens (JWT), manage their personal notes, and exchange messages through authenticated Socket.IO connections.
 
 ## Key Features
 
